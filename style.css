@@ -1,5 +1,37 @@
+header {
+  text-align: center;
+}
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+
+nav a {
+  background: #808080;
+  padding: 10px;
+}
+
+figcaption {
+  font-size: 15px;
+}
+
+section#featured-property {
+  text-align: center;
+}
+
+section#featured-property p {
+ width: 800px;
+ margin: auto;
+ margin-bottom: auto;
+ padding: 12px;
+}
+
+section#details div {
+  float: left;
+  text-align: center;
+  margin: auto;
+  width: 25%;
+  background: #ff0000;
 }
